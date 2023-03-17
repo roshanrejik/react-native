@@ -1,0 +1,24 @@
+{
+  "name": "store-app",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "@testing-library/jest-native": "*",
+    "@testing-library/react-native": "*",
+    "react": "*",
+    "react-native": "*",
+    "react-native-config": "*",
+    "react-native-svg": "*",
+    "@react-native-async-storage/async-storage": "*",
+    "metro-config": "*",
+    "@react-navigation/native": "*",
+    "@react-navigation/native-stack": "*",
+    "react-native-screens": "*",
+    "react-native-safe-area-context": "*",
+    "react-redux": "*",
+    "react-native-paper": "*",
+    "@reduxjs/toolkit": "*",
+    "axios": "*",
+    "redux-logger": "*"
+  }
+}
